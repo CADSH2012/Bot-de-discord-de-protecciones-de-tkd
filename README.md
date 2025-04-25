@@ -1,0 +1,1 @@
+Este es un bot para discord que ayuda a los nuevos taekwondoines o a cualquier persona a reconocer y analizar las protecciones de tkd🚀<img width="334" alt="image" src="https://github.com/user-attachments/assets/d53aac42-5328-4e52-a8f8-db2aa20eaa9e" />
