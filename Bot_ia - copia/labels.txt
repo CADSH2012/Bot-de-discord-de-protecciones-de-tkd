@@ -1,0 +1,6 @@
+0 Petos
+1 Cascos
+2 Empeineras
+3 Guantes
+4 Antebraceras
+5 Espinilleras
